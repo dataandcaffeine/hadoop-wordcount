@@ -2,7 +2,7 @@
 
 Running a MapReduce on Hadoop with Python 
 
-1.Prerequisites : Single-Node Hadoop Cluster with Pydoop
+# 1.Prerequisites : Single-Node Hadoop Cluster with Pydoop
 	1.1. Ubuntu 12.10, 64-bit desktop version
 	
 	1.2. Oracle Java 8
@@ -17,7 +17,7 @@ Running a MapReduce on Hadoop with Python
 	1.4. Pydoop 1.2.0
 			Download from : https://pypi.python.org/pypi/pydoop
 		
-2. Start Hadoop
+# 2. Start Hadoop
 	2.1. Start from command line : 
 			./start-all.sh
 	2.2. Check processes by running jps
