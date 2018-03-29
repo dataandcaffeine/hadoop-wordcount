@@ -30,7 +30,7 @@ Running a MapReduce on Hadoop with Python
 	2.3. For details and troubleshooting : http://www.drdobbs.com/database/pydoop-writing-hadoop-programs-in-python/240156473
 	
 	
-3. Running WordCount
+# 3. Running WordCount
 	3.1. Create input directories
 			hdfs dfs mkdir ~/input/
 	3.2. Save input.txt to ~/input/
